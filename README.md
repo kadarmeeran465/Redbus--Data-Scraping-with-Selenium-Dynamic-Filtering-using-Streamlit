@@ -21,5 +21,10 @@ An interactive Streamlit application for visualizing and filtering bus routes fr
 ## Objective
 The project aims to enhance the user experience of browsing and selecting bus routes by providing an intuitive platform for filtering and analyzing bus travel data. It seeks to make public transportation data more accessible and actionable for users.
 
-## Developed By:
-## Kadar Meeran
+## Developed By: Kadar Meeran
+
+![Screenshot (122)](https://github.com/user-attachments/assets/90b01b2b-34d3-4211-9258-63612fc3927d)
+![Screenshot (124)](https://github.com/user-attachments/assets/2252838e-0029-4839-981c-7d2d145c98e0)
+![Screenshot (121)](https://github.com/user-attachments/assets/e870eec6-e8f4-4a91-9ffd-03acfacbe504)
+![Screenshot (120)](https://github.com/user-attachments/assets/e51ea405-6efc-4a62-ad74-16c85408fbec)
+![Screenshot (119)](https://github.com/user-attachments/assets/6a85873d-1bb6-489c-9c40-4abcfe27142a)
